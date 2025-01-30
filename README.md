@@ -1,7 +1,3 @@
-# Module-11
-
----
-
 # Mars Web Scraping and Data Analysis
 
 ## Overview
